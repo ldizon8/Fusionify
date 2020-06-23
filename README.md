@@ -1,4 +1,4 @@
-# "conFusion" A React Web Application 
+# conFusion A React Web Application 
 ![Logo](/Frontend/web/src/assets/fusion_logo.png)
 
 A website created in Spring 2020 as a Web Development practice project. 
