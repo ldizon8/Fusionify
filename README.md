@@ -1,9 +1,6 @@
 # A complete ConFusion React Web Application 
 ![Logo](/Frontend/web/src/assets/fusion_logo.png)
 
-## Complete project detail can be found in the Final Presentation
-https://github.com/ldizon8/Fusionify/blob/master/Presentation/FUSION%20_Web%20App_%20Presentation.pdf
-
 A website created in Spring 2020 as a Web Development practice project. 
 Organized by "Filipinos Unifying Scientist-Engineers in an Organized Network", a.k.a. FUSION.
 
@@ -27,3 +24,6 @@ on your computer before attempting to run it.
 
 Then, you must use the Command Window, use the 'cd' command to navigate to the folder of the project, and finally use 'npm start'
 to automatically run the website on 'localhost' in your browser.
+
+## Complete project detail can be found in the Final Presentation
+https://github.com/ldizon8/Fusionify/blob/master/Presentation/FUSION%20_Web%20App_%20Presentation.pdf
